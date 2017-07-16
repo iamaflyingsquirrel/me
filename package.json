@@ -1,0 +1,19 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "This is my personal site for information and contact details",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamaflyingsquirrel/me.git"
+  },
+  "author": "Richard Stokes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamaflyingsquirrel/me/issues"
+  },
+  "homepage": "https://github.com/iamaflyingsquirrel/me#readme"
+}
